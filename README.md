@@ -7,19 +7,19 @@ population mean, especially in regards to its bias and efficiency, compared to s
 **Simulation Study Design:**
 
 <p align="center">
-  <img width="1000" height="500" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/simulation-study-design.PNG">
+  <img width="1000" height="500" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Simulation%20Design/simulation-study-design.PNG">
 </p>
 
 
 **Output from the Simulation Study**
 <p align="center">
-  <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output-1.PNG">
+  <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output/Output-1.PNG">
 </p>
 <p align="center">
-  <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output-2.PNG">
+  <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output/Output-2.PNG">
 </p>
 <p align="center">
-  <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output-3.PNG">
+  <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output/Output-2.PNG">
 </p>
 
 **Discussion from the Output**
