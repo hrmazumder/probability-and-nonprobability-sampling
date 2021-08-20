@@ -11,7 +11,7 @@ population mean, especially in regards to its bias and efficiency, compared to s
 </p>
 
 
-**Output from the Simulation Study**
+**Output from the Simulation Study:**
 <p align="center">
   <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output/Output-1.PNG">
 </p>
@@ -22,7 +22,7 @@ population mean, especially in regards to its bias and efficiency, compared to s
   <img width="800" height="400" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Output/Output-2.PNG">
 </p>
 
-**Discussion from the Output**
+**Discussion from the Output:**
 
 • Increasing the sample size has no effect on the bias of the sample mean (zbar) from CS • Increasing the 𝛼 value decreases the bias in the sample mean (zbar) 𝑧obtained from CS. This is due to the fact that increasing 𝛼 values increase the selection probability • Increasing the 𝛼 values increase the REs, i.e. CS becomes competitive with SRS as 𝛼 values increase • Increasing the 𝛽 value, however causes an increase in the bias of the sample mean (zbar) obtained from CS • Similarly, increasing the 𝛽 value, decreases the RE (i.e. SRS’s MSE gets better) • While increasing the 𝛾 values also causes an increase in the bias of the sample mean (zbar) obtained from CS, this increase stabilizes quickly. However, the REs get smaller with higher 𝛾 values • We want to highlight that for very high 𝛼 values, CS sampling becomes pretty competitive with SRS • For such high 𝛼 values the biases from CS and SRS become very close • For small 𝛾 values RE values become greater than 1
 
