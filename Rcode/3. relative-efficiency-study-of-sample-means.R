@@ -172,3 +172,6 @@ plot(n, RE_n, type = "o", ylab = "RE (SRS to Conv.)", xlab = "Sample size", ylim
      main = expression(paste("Relative Efficiency (",alpha,"=1, ", beta,"=2.5, ", gamma,"=1)")), lwd=2)
 abline(h=1, col = "red")
 
+#***comment: one can change parameters in the above code to generate all the plots that as shown in the output files.
+
+
