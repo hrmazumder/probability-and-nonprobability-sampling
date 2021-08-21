@@ -63,6 +63,7 @@ conv_samp = function(s, z, N, n){
 
 #*********************************************************************************************************
 #first, simulate a population with response Z:
+set.seed(100)
 N = 5000
 theta = 10
 x = rnorm(n = N, mean = 0, sd = 1) 
