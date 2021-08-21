@@ -33,6 +33,7 @@ Our study confirms that the bias and the MSE of the sample mean from CS is highe
 
 Reference:
 https://ww2.amstat.org/meetings/jsm/2021//onlineprogram/AbstractDetails.cfm?abstractid=318968
+Presented in Joint Statistical Meetings (JSM) 2021, American Statistical Association.
 
 **My contribution: writing the entire R code for analysis (SRS, CS, Simulation Study and Making Plots) and providing with insights from analysis!
 
