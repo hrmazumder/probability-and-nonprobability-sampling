@@ -7,7 +7,7 @@ population mean, especially in regards to its bias and efficiency, compared to s
 **Simulation Study Design:**
 
 <p align="center">
-  <img width="800" height="800" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Simulation%20Design/simulation-study-design.PNG">
+  <img width="900" height="450" src="https://github.com/hrmazumder/probability-and-nonprobability-sampling/blob/main/Simulation%20Design/simulation-study-design.PNG">
 </p>
 
 
